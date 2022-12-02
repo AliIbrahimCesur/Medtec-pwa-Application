@@ -1,0 +1,25 @@
+{
+  "short_name": "MedTec",
+  "name": "MedTec App",
+  "description": "A PWA MedTec application",
+  "icons": [
+    {
+      "src": "/medtec-192-192.png",
+      "type": "image/png",
+      "sizes": "192x192",
+      "purpose": "any maskable"
+    },
+    {
+      "src": "/vercel-icon-512-512.png",
+      "type": "image/png",
+      "sizes": "512x512",
+      "purpose": "any maskable"
+    }
+  ],
+  "start_url": "/",
+  "background_color": "#FFFFFF",
+  "display": "standalone",
+  "scope": "/",
+  "theme_color": "#6850ff",
+  "orientation": "portrait"
+}
